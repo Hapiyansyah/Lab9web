@@ -16,7 +16,12 @@
 
 ## 1. Index.php
 
+![P4](lab9web/P4.png)
+
 ## 2. Tambah.php
+
+![P5](lab9web/P5.png)
 
 ## 3. Ubah.php
 
+![P6](lab9web/P6.png)
