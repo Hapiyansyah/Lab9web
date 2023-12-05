@@ -1,13 +1,13 @@
 # Lab9web
 
-## Header
+## 1. Header
 
 ![P1](lab9web/P1.png)
 
-## Home
+## 2. Home
 
 ![P2](lab9web/P2.png)
 
-## About
+## 3. About
 
 ![P3](lab9web/P3.png)
