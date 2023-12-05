@@ -11,3 +11,12 @@
 ## 3. About
 
 ![P3](lab9web/P3.png)
+
+# Tugas
+
+## 1. Index.php
+
+## 2. Tambah.php
+
+## 3. Ubah.php
+
